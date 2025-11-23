@@ -86,17 +86,20 @@ Potential improvements and extensions:
 - Wireless communication for control and monitoring
 - Integration with renewable energy sources
 
+## Author
+
+**[Fulong Li](https://fulongli.github.io/)**.
+
+---
+
+## Related Papers 
+
+---
+
 ## License
 
 This project is licensed under the Creative Commons Attribution 4.0 International License. See [LICENSE.md](LICENSE.md) for details.
 
-## Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page or submit a pull request.
-
-## Contact
-
-For questions, suggestions, or collaboration opportunities, please open an issue or contact the project maintainers.
 
 ---
 
