@@ -60,8 +60,7 @@ Wireless power transfer technology has numerous applications including:
 
 ## Technical Specifications
 
-*(Add your specific technical specifications here, such as:)*
-- Operating frequency range
+- Operating frequency range: 50-100kHz
 - Maximum power transfer capability
 - Efficiency ratings
 - Operating voltage/current ranges
