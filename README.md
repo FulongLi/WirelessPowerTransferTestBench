@@ -1,5 +1,10 @@
 # Wireless Power Transfer Test Bench
 
+![license - CC BY 4.0](https://img.shields.io/badge/license-CC--BY-green)
+![type - Hardware](https://img.shields.io/badge/type-Hardware-blue)
+![category - power electronics](https://img.shields.io/badge/category-power%20electronics-lightgrey)
+![status - archived](https://img.shields.io/badge/status-archived-red)
+
 A prototype test bench for wireless power transfer (WPT) systems, designed for research, development, and educational purposes. This setup enables the testing and validation of inductive power transfer technologies.
 
 ![WPT Setup](images/WPT_setup.png)
